@@ -21,15 +21,21 @@ ECE 693B is structured as a sequential series of [modules](/ece693bspring2025/mo
 ## Useful Resources
 
   * 📖 Textbooks
-    - [Circuit Analysis and Design by Ulaby, Maharbiz, and Furse](https://cad2e.eecs.umich.edu/)
-    - [Signals and Systems: Theory and Applications by Ulaby and Yagle](https://services.publishing.umich.edu/Books/S/Signals-and-Systems2)
-  * 🗓 [Course calendar](https://docs.google.com/spreadsheets/d/1l_KBbUvDNDh2SBm6CLU5U4pUn4tSIV_NaeRs6vQuZcY/edit?gid=0#gid=0).
-  * 🤖 [Discord server](https://discord.gg/DVNZkCbWm9).
-  * 📜 [Anonymous feedback form](https://forms.gle/En8KrJWcjZWLv8S68).
-  * 💻 Software and simulation:
-    - [Online calculator for complex numbers](https://www.hackmath.net/en/calculator/complex-number)
+    - [A Course in Reinforcement Learning, Dimitri P. Bertsekas](https://www.mit.edu/~dimitrib/RLbook.html)
+    - [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/the-book-2nd.html)
+  * 🗓 [Course calendar](https://docs.google.com/spreadsheets/d/1uCZq07HOKMXDL47J55IcJcSlotBJj2z9-O-RmAm9ndE/edit?usp=sharing).
+  * 🤖 [Discord server](https://discord.gg/fju5hAhGcD).
+  * 📜 [Anonymous feedback form](https://forms.gle/TbHMEU455B3i7UNcA).
+  * 💻 Online resources and tutorials:
+    - [Video lectures and lecture slides of Bertsekas' course](https://web.mit.edu/dimitrib/www/RLbook.html)
+    - [David Silver's lectures on Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+    - [OpenAI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
+    - [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt)
+  * Programming:
     - Python -- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/), [Google Colab](https://colab.research.google.com/) (may have issues if you log in Google using your UH email)
-    - Circuit simulator -- [Falstad](https://www.falstad.com/circuit/)
+    - RL environments -- [Gymnasium](https://gymnasium.farama.org/index.html)
+    - Training frameworks -- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html), [RL Baselines3 Zoo](https://rl-baselines3-zoo.readthedocs.io/en/master/)
+    - Evaluation and benchmarks -- [rliable](https://github.com/google-research/rliable), [Hugging Face](https://huggingface.co/)
 
 ## About the instructor
 
