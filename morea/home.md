@@ -31,7 +31,7 @@ ECE 693B is structured as a sequential series of [modules](/ece693bspring2025/mo
     - [David Silver's lectures on Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
     - [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
     - [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt)
-  * Programming:
+  * 🧑‍💻️ Programming:
     - Python -- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/), [Google Colab](https://colab.research.google.com/) (may have issues if you log in Google using your UH email)
     - RL environments -- [Gymnasium](https://gymnasium.farama.org/index.html)
     - Training frameworks -- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/en/master/index.html), [RL Baselines3 Zoo](https://rl-baselines3-zoo.readthedocs.io/en/master/)
