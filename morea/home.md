@@ -29,7 +29,7 @@ ECE 693B is structured as a sequential series of [modules](/ece693bspring2025/mo
   * 💻 Online resources and tutorials:
     - [Video lectures and lecture slides of Bertsekas' course](https://web.mit.edu/dimitrib/www/RLbook.html)
     - [David Silver's lectures on Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-    - [OpenAI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
+    - [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
     - [Hugging Face Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt)
   * Programming:
     - Python -- [Jupyter Lab](https://jupyter.org/try-jupyter/lab/), [Google Colab](https://colab.research.google.com/) (may have issues if you log in Google using your UH email)
