@@ -1,6 +1,6 @@
 ---
 title: "Physical Models of Wireless Channels"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: module-wireless-channel-physical-model
 morea_prerequisites:

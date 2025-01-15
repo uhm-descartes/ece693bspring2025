@@ -1,11 +1,11 @@
 ---
-title: "E01: Introduce yourself"
+title: "Introduce yourself"
 published: true
 morea_id: experience-introduce-yourself
 morea_type: experience
-morea_summary: "Get started with the EE 643 Discord server"
+morea_summary: "Get started with the EE 693B Discord server"
 morea_sort_order: 10
-morea_start_date: "2024-01-08T23:00"
+morea_start_date: "2025-01-13T23:00"
 morea_labels:
 ---
 
@@ -13,15 +13,4 @@ morea_labels:
 
 ## Task
 
-For this experience, join the EE 643 Discord server. You will receive an invitation to this server via email.
-
-Please read through all channels in the Welcome category.
-
-It is your responsibility to receive information about this class promptly. I highly recommend that you install a native client for Discord on your phone and your laptop and set it to display notifications.
-
-## Submission instructions
-
-By the time and date indicated on the Schedule page, you must have:
-
-  * Joined the EE 643 Discord server
-  * Performed all setup actions specified in the Welcome category channels.
+For this experience, join the EE 693B Discord server. You can find the link on Laulima.
