@@ -9,7 +9,7 @@ morea_outcomes:
 morea_readings:
   - reading-building-blocks
 morea_experiences:
-  # - experience-CHANGE-ME
+  - experience-policy-evaluation-GridWorld
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
